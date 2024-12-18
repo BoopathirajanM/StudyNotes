@@ -1,4 +1,5 @@
 Prerequisites - Need to install:
+
 Node.js
 Express.js
 MongoDB
@@ -8,6 +9,7 @@ Tailwind CSS
 
 
 How to run the project:
+
 1.Navigate to the \frontend directory.
 
 2.Open a terminal and run the following command: npm run dev
